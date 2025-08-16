@@ -1,0 +1,18 @@
+Source-Available Contribution License Agreement (CLA) v1.0
+
+By signing and submitting contributions to this project, you agree to the following:
+
+1. Assignment of Rights
+   You hereby assign to RedstoneProff all worldwide right, title, and interest in any contributions you make to the project.
+
+2. Original Work
+   You affirm that your contributions are your original work and do not violate any third-party intellectual property rights.
+
+3. License to Use Contributions
+   You grant RedstoneProff the perpetual, worldwide, royalty-free right to use, modify, reproduce, and distribute your contributions in any form.
+
+4. Waiver of Moral Rights
+   To the extent permitted by law, you waive any moral rights in your contributions.
+
+5. Acceptance
+   Your contributions will only be accepted if you agree to this CLA.
