@@ -9,7 +9,6 @@ Lets take a look at rook. Lets look at what rook does. Rook controls 14 of 64 sq
 
 Instead of increasing the number of pieces by a dimension, it is a more superior choice to increase their movement by a dimension, suddenly everything starts to work. You get theoretical endgames, openings, pawn structure, middlegame
 
-Contributing 
 
 ## Contributions
 
