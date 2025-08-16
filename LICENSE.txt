@@ -1,0 +1,42 @@
+Source-Available Contribution License (SACL) v1.0
+
+Copyright (c) [Year] [Your Name or Company]
+All rights reserved.
+
+1. License Grant
+
+You are granted a limited, non-exclusive, revocable license to:
+
+View and study the source code.
+
+Use the software in unmodified form for personal, educational, or commercial purposes.
+
+You are not permitted to:
+
+Distribute modified versions of the software.
+
+Fork or create derivative works from this software.
+
+Redistribute the source code in any form without written permission from the copyright holder.
+
+2. Contributions
+
+By submitting any code, documentation, or other materials (“Contributions”) to this project, you agree to:
+
+Assign all rights, title, and interest in your Contributions to the copyright holder.
+
+Waive any moral rights to the extent permitted by law.
+
+Warrant that your Contributions are your original work and do not infringe any third-party rights.
+
+3. Commercial Use
+
+You may use this software in commercial projects, provided you do not redistribute the source or modified versions.
+
+4. Termination
+
+This license will terminate automatically if you breach any of its terms. Upon termination, you must delete all copies of the software in your possession.
+
+5. No Warranty
+
+This software is provided “as is,” without warranty of any kind, express or implied. In no event shall the copyright holder be liable for any claim, damages, or other liability.
